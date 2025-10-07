@@ -1,0 +1,579 @@
+{
+  "encrypted": false,
+  "folders": [
+    {
+      "id": "folder-1",
+      "name": "Work"
+    },
+    {
+      "id": "folder-2", 
+      "name": "Personal"
+    },
+    {
+      "id": "folder-3",
+      "name": "Shopping"
+    }
+  ],
+  "items": [
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-01-06T18:42:28.421Z",
+      "creationDate": "2025-01-06T18:42:28.421Z",
+      "deletedDate": null,
+      "id": "item-1",
+      "organizationId": null,
+      "folderId": "folder-1",
+      "type": 1,
+      "reprompt": 0,
+      "name": "Gmail Work",
+      "notes": "Work email account",
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://gmail.com/"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": "john.doe@company.com",
+        "password": "MyPassword123!",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-01-06T18:42:28.421Z",
+      "creationDate": "2025-01-06T18:42:28.421Z",
+      "deletedDate": null,
+      "id": "item-2",
+      "organizationId": null,
+      "folderId": "folder-2",
+      "type": 1,
+      "reprompt": 0,
+      "name": "Gmail Personal",
+      "notes": "Personal email account",
+      "favorite": true,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://gmail.com/"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": "john.doe@company.com",
+        "password": "MyPassword123!",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-01-06T18:42:28.421Z",
+      "creationDate": "2025-01-06T18:42:28.421Z",
+      "deletedDate": null,
+      "id": "item-3",
+      "organizationId": null,
+      "folderId": "folder-2",
+      "type": 1,
+      "reprompt": 0,
+      "name": "Facebook",
+      "notes": "Social media account",
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://facebook.com/"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": "john.doe@company.com",
+        "password": "MyPassword123!",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-01-06T18:42:28.421Z",
+      "creationDate": "2025-01-06T18:42:28.421Z",
+      "deletedDate": null,
+      "id": "item-4",
+      "organizationId": null,
+      "folderId": "folder-2",
+      "type": 1,
+      "reprompt": 0,
+      "name": "Twitter",
+      "notes": "Social media account",
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://twitter.com/"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": "johndoe123",
+        "password": "MyPassword123!",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-01-06T18:42:28.421Z",
+      "creationDate": "2025-01-06T18:42:28.421Z",
+      "deletedDate": null,
+      "id": "item-5",
+      "organizationId": null,
+      "folderId": "folder-1",
+      "type": 1,
+      "reprompt": 0,
+      "name": "Google Drive",
+      "notes": "Cloud storage",
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://drive.google.com/"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": "john.doe@company.com",
+        "password": "MyPassword123!",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-01-06T18:42:28.421Z",
+      "creationDate": "2025-01-06T18:42:28.421Z",
+      "deletedDate": null,
+      "id": "item-6",
+      "organizationId": null,
+      "folderId": "folder-2",
+      "type": 1,
+      "reprompt": 0,
+      "name": "YouTube",
+      "notes": "Video platform",
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://youtube.com/"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": "johndoe123",
+        "password": "MyPassword123!",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-01-06T18:42:28.421Z",
+      "creationDate": "2025-01-06T18:42:28.421Z",
+      "deletedDate": null,
+      "id": "item-7",
+      "organizationId": null,
+      "folderId": "folder-1",
+      "type": 1,
+      "reprompt": 0,
+      "name": "Slack Work",
+      "notes": "Team communication",
+      "favorite": true,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://company.slack.com/"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": "john.doe@company.com",
+        "password": "MyPassword123!",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-01-06T18:42:28.421Z",
+      "creationDate": "2025-01-06T18:42:28.421Z",
+      "deletedDate": null,
+      "id": "item-8",
+      "organizationId": null,
+      "folderId": "folder-2",
+      "type": 1,
+      "reprompt": 0,
+      "name": "GitHub",
+      "notes": "Code repository",
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://github.com/"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": "johndoe123",
+        "password": "MyPassword123!",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-01-06T18:42:28.421Z",
+      "creationDate": "2025-01-06T18:42:28.421Z",
+      "deletedDate": null,
+      "id": "item-9",
+      "organizationId": null,
+      "folderId": "folder-1",
+      "type": 1,
+      "reprompt": 0,
+      "name": "Office 365",
+      "notes": "Microsoft Office suite",
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://office.com/"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": "john.doe@company.com",
+        "password": "MyPassword123!",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-01-06T18:42:28.421Z",
+      "creationDate": "2025-01-06T18:42:28.421Z",
+      "deletedDate": null,
+      "id": "item-10",
+      "organizationId": null,
+      "folderId": "folder-2",
+      "type": 1,
+      "reprompt": 0,
+      "name": "Netflix",
+      "notes": "Streaming service",
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://netflix.com/"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": "johndoe123",
+        "password": "MyPassword123!",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-01-06T18:42:28.421Z",
+      "creationDate": "2025-01-06T18:42:28.421Z",
+      "deletedDate": null,
+      "id": "item-11",
+      "organizationId": null,
+      "folderId": "folder-3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "Amazon",
+      "notes": "Online shopping",
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://amazon.com/"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": "johndoe123",
+        "password": "MyPassword123!",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-01-06T18:42:28.421Z",
+      "creationDate": "2025-01-06T18:42:28.421Z",
+      "deletedDate": null,
+      "id": "item-12",
+      "organizationId": null,
+      "folderId": "folder-3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "eBay",
+      "notes": "Online marketplace",
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://ebay.com/"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": "johndoe123",
+        "password": "MyPassword123!",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-01-06T18:42:28.421Z",
+      "creationDate": "2025-01-06T18:42:28.421Z",
+      "deletedDate": null,
+      "id": "item-13",
+      "organizationId": null,
+      "folderId": "folder-2",
+      "type": 1,
+      "reprompt": 0,
+      "name": "Instagram",
+      "notes": "Photo sharing",
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://instagram.com/"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": "johndoe123",
+        "password": "MyPassword123!",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-01-06T18:42:28.421Z",
+      "creationDate": "2025-01-06T18:42:28.421Z",
+      "deletedDate": null,
+      "id": "item-14",
+      "organizationId": null,
+      "folderId": "folder-2",
+      "type": 1,
+      "reprompt": 0,
+      "name": "LinkedIn",
+      "notes": "Professional network",
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://linkedin.com/"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": "johndoe123",
+        "password": "MyPassword123!",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-01-06T18:42:28.421Z",
+      "creationDate": "2025-01-06T18:42:28.421Z",
+      "deletedDate": null,
+      "id": "item-15",
+      "organizationId": null,
+      "folderId": "folder-1",
+      "type": 1,
+      "reprompt": 0,
+      "name": "Jira",
+      "notes": "Project management",
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://company.atlassian.net/"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": "john.doe@company.com",
+        "password": "MyPassword123!",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-01-06T18:42:28.421Z",
+      "creationDate": "2025-01-06T18:42:28.421Z",
+      "deletedDate": null,
+      "id": "item-16",
+      "organizationId": null,
+      "folderId": "folder-1",
+      "type": 1,
+      "reprompt": 0,
+      "name": "Confluence",
+      "notes": "Documentation platform",
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://company.atlassian.net/"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": "john.doe@company.com",
+        "password": "MyPassword123!",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-01-06T18:42:28.421Z",
+      "creationDate": "2025-01-06T18:42:28.421Z",
+      "deletedDate": null,
+      "id": "item-17",
+      "organizationId": null,
+      "folderId": "folder-2",
+      "type": 1,
+      "reprompt": 0,
+      "name": "Spotify",
+      "notes": "Music streaming",
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://spotify.com/"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": "johndoe123",
+        "password": "MyPassword123!",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-01-06T18:42:28.421Z",
+      "creationDate": "2025-01-06T18:42:28.421Z",
+      "deletedDate": null,
+      "id": "item-18",
+      "organizationId": null,
+      "folderId": "folder-2",
+      "type": 1,
+      "reprompt": 0,
+      "name": "Discord",
+      "notes": "Gaming chat",
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://discord.com/"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": "johndoe123",
+        "password": "MyPassword123!",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-01-06T18:42:28.421Z",
+      "creationDate": "2025-01-06T18:42:28.421Z",
+      "deletedDate": null,
+      "id": "item-19",
+      "organizationId": null,
+      "folderId": "folder-3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "PayPal",
+      "notes": "Payment processor",
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://paypal.com/"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": "johndoe123",
+        "password": "MyPassword123!",
+        "totp": null
+      },
+      "collectionIds": null
+    },
+    {
+      "passwordHistory": [],
+      "revisionDate": "2025-01-06T18:42:28.421Z",
+      "creationDate": "2025-01-06T18:42:28.421Z",
+      "deletedDate": null,
+      "id": "item-20",
+      "organizationId": null,
+      "folderId": "folder-3",
+      "type": 1,
+      "reprompt": 0,
+      "name": "Stripe",
+      "notes": "Payment processing",
+      "favorite": false,
+      "fields": [],
+      "login": {
+        "uris": [
+          {
+            "match": null,
+            "uri": "https://stripe.com/"
+          }
+        ],
+        "fido2Credentials": [],
+        "username": "johndoe123",
+        "password": "MyPassword123!",
+        "totp": null
+      },
+      "collectionIds": null
+    }
+  ]
+}
