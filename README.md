@@ -330,24 +330,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🙏 **Acknowledgments**
-
-- **Bitwarden** for creating an amazing password manager
-- **Python Community** for excellent libraries and tools
-- **Open Source Community** for inspiration and support
-
----
-
-## 📞 **Support**
-
-If you encounter any issues or have questions:
-
-1. **Check the Issues**: Look through existing issues on GitHub
-2. **Create an Issue**: Open a new issue with detailed information
-3. **Community Help**: Ask questions in discussions
-
----
-
 <div align="center">
 
 ### ⭐ **Star this repository if you find it useful!** ⭐
